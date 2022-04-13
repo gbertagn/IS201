@@ -1,0 +1,19 @@
+p{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: whitesmoke;
+}
+#Grant{
+    color: black;
+}
+#GB{
+    color: azure;
+}
+h2{
+    text-align: center;
+}
+#Legend{
+    font-weight: bold;
+}
